@@ -1,0 +1,5 @@
+# machine-specific package preferences (e.g. a pinned CUDA runtime)
+LocalPreferences.toml
+# solver output
+results/
+*.sol.tsv
